@@ -152,7 +152,8 @@ body {
 }
 
 .navigation a:hover {
-    border-bottom: 3px solid #222222;
+    color: #f16d7f;
+    transition: color 0.5s linear;
 }
 
 /* SLIDER */
